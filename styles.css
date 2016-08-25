@@ -1,0 +1,27 @@
+#container{
+  width: 900px;
+}
+
+.box{
+  height: 250px;
+  width: 250px;
+  border: 5px solid #0FE895;
+  display: inline-block;
+  margin: 5px;
+  float: left;
+  color: #0FE895;
+  font-size: 150px;
+  text-align: center;
+  font-family: 'Baloo Paaji', cursive;
+
+}
+h1{
+  color: #0FE895;
+  margin-left: 196px;
+  font-family: 'Baloo Paaji', cursive;
+  font-size: 80px;
+}
+body{
+  background-color: #0190FF;
+
+}
